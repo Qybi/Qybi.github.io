@@ -1,0 +1,311 @@
+{
+  "pageLayout": "two-column",
+  "basics": {
+    "name": "Raffaele Trivillin",
+    "label": "Full Stack Developer",
+    "image": "/avatar.jpg",
+    "email": "qybi.dev@gmail.com",
+    "url": "https://www.qybi.dev",
+    "dob": "26/01/1998",
+    "summary": "Full-stack software developer with 5~6 years of experience, currently completing a `Cloud Developer` specialization through ITS Academy Alto Adriatico. I’ve built multiple web applications across different domains and tech stacks. I’m eager to contribute to and learn from a company working either on large-scale or medium-scale applications. I define myself as a calm, curious and, to a certain degree, eclectic person, committed to always deliver the best quality results, whether independently or in a team.",
+    "hobbies": [
+      {
+        "name": "Reading books and comics",
+        "icon": "maki:library"
+      },
+      {
+        "name": "Motorsport",
+        "icon": "maki:racetrack"
+      },
+      {
+        "name": "Sports cars",
+        "icon": "maki:car"
+      },
+      {
+        "name": "Gaming",
+        "icon": "maki:gaming"
+      },
+      {
+        "name": "Music",
+        "icon": "ph:headphones-fill"
+      }
+    ],
+    "theme": "purple",
+    "location": {
+      "address": "",
+      "city": "Latisana",
+      "countryCode": "IT",
+      "region": "Italy"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "username": "Qybi",
+        "url": "https://github.com/Qybi"
+      },
+      {
+        "network": "LinkedIn",
+        "icon": "mdi:linkedin",
+        "username": "raffaele-trivillin",
+        "url": "https://www.linkedin.com/in/raffaele-trivillin/"
+      }
+    ]
+  },
+  "images": {
+    "enabled": false,
+    "intro": "",
+    "list": [
+      {
+        "image": "https://i1.sndcdn.com/artworks-d0RbKpbNcrAlMAnn-tcTSCw-t500x500.jpg",
+        "alt": "yep",
+        "desc": "yep"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "ITS Alto Adriatico Academy",
+      "url": "https://www.itsaltoadriatico.it/",
+      "area": "Cloud Developer ITS Diploma - EQF 6",
+      "studyType": "Full-time student and contracted developer",
+      "startDate": "2023-10-15",
+      "endDate": "2025-07-30"
+    },
+    {
+      "institution": "ISIS A. Malignani",
+      "url": "https://www.malignani.ud.it/",
+      "area": "ICT Diploma - EQF 5",
+      "studyType": "Full-time student",
+      "startDate": "2011-09-15",
+      "endDate": "2016-06-30"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Protezione Dati Personali: GDPR, Privacy e Sicurezza",
+      "date": "2024-02-23",
+      "url": "https://www.linkedin.com/in/raffaele-trivillin/overlay/1736453299602/single-media-viewer?type=DOCUMENT&profileId=ACoAADDhoDkBX8fH3wLGE9isqiZGOVix6lCU6QM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BIAJLEYhdRKyE3p3g1yUDMg%3D%3D",
+      "issuer": "AICA - Associazione Italiana per l'Informatica e il Calcolo Automatico"
+    }
+  ],
+  "work": [
+    {
+      "name": "Archeido S.r.l.",
+      "position": "Full-stack Developer",
+      "location_type": "Hybrid",
+      "location": "Udine, IT",
+      "url": "https://archeido.com/",
+      "startDate": "2024-06-10",
+      "endDate": null,
+      "summary": "Developed features, tested, refactored and debugged production on full stack custom web applications and services for the industrial and hospitality domains.",
+      "highlights": [
+        "Developed and maintained backend services using Ruby on Rails and NodeJS;",
+        "Test writing using RSpec and RSwag for API documentation;",
+        "Developed and maintained frontend using React and Antd components library;",
+        "Developed features for a mobile application using React Native;",
+        "Developed and maintained a microservice for handling MQTT messages to and from and EMQX broker using NodeJS;"
+      ],
+      "responsibilities": [
+        "Given full ownership for the development of the 2 long-term projects I worked on.",
+        "Tasked to study and developed a cross-platform Electron application and analazying the feasibility of upgrading firmware on a famous brand of helmet intercoms."
+      ],
+      "achievements": [
+        {
+          "title": "Solved a core N+1 query performance issue using a tree structure for self referential table",
+          "subAchievements": [
+            "Created a migration port all the existing data to the new structure"
+          ]
+        },
+        {
+          "title": "Implemented a new section in a company's application for handling distribution of products for remote machines",
+          "subAchievements": [
+            "Developed hierarchy of customers and sub-customers for handling the distribution of products, with different features depending on the \"level\"",
+            "Developed a mobile version of the application dedicated to on-field operators for handling stocks loading"
+          ]
+        }
+      ],
+      "skills": {
+        "Ruby": "devicon:ruby",
+        "Rails": "devicon:rails-wordmark",
+        "Swagger": "devicon:swagger",
+        "RSpec": "devicon:rspec",
+        "HTML": "devicon:html5",
+        "CSS": "devicon:css3",
+        "JavaScript": "devicon:javascript",
+        "React": "devicon:react",
+        "Antd 4/5": "devicon:antdesign",
+        "NodeJS": "devicon:nodejs",
+        "Electron": "devicon:electron",
+        "AWS": "devicon:amazonwebservices-wordmark",
+        "Docker": "devicon:docker",
+        "PostgreSQL": "devicon:postgresql",
+        "MySQL": "devicon:mysql",
+        "MQTT": "",
+        "EMQX": "",
+        "RubyMine": "devicon:rubymine",
+        "VS Code": "devicon:vscode",
+        "DataGrip": "devicon:datagrip",
+        "Jira": "devicon:jira",
+        "Tempo": "",
+        "Slack": "devicon:slack"
+      }
+    },
+    {
+      "name": "ISTES ICT Solutions S.r.l.",
+      "position": "Full-stack Developer",
+      "location_type": "Hybrid",
+      "location": "Latisana, IT",
+      "url": "",
+      "startDate": "2019-02-04",
+      "endDate": "2023-10-31",
+      "summary": "Designed, Developed and deployed full stack SaaS B2B web applications and windows desktop applications mainly for the HoReCa domain",
+      "highlights": [],
+      "responsibilities": [
+        "Full stack development of web applications using Angular - .NET - SQL Server Stack",
+        "Deployment of web applications on company owned servers (Windows Server 2019), Azure or on IIS on prem, depending on customer requests",
+        "Development of Windows Desktop applications and services in C#, VB .NET and VB6 (company legacy applications)",
+        "Conversion of customer requests into technical specifications and development of the requested features",
+        "Team management support for time and resources estimates for the development of projects features"
+      ],
+      "achievements": [
+        {
+          "title": "Designed and developed from scratch a full hotel PMS application",
+          "subAchievements": [
+            "Booking handling, CMS, CRM",
+            "Room management and cleaning status",
+            "Digital invoicing serialization and automated billing on Fiscal RT Printers (as per Italian Law)",
+            "Multiple reports available both in excel and pdf format",
+            "24 hours check-in service connected to a 3rd party Totem",
+            "Restaurant management and kitchen orders handling",
+            "Integration with 3rd party services (e.g. Channel Managers. Revenue Management Systems)",
+            "Integration with the State Police portal for guest data and with regional statistic data aggregators (as per Italian Law)"
+          ]
+        },
+        {
+          "title": "Designed and developed a restaurant POS application for order handling, table management, kitchen orders, and billing",
+          "subAchievements": []
+        },
+        {
+          "title": "Custom query extraction for the customer's needs using TSQL Stored Procedures/functions and reports generation",
+          "subAchievements": []
+        },
+        {
+          "title": "Maintained a Property Management application for a Rental Agency",
+          "subAchievements": []
+        },
+        {
+          "title": "Maintained a Beach Management application for renting sunbeds and umbrellas",
+          "subAchievements": []
+        },
+        {
+          "title": "Maintained old legacy application in VB6",
+          "subAchievements": []
+        }
+      ],
+      "skills": {
+        "C#": "devicon:csharp",
+        ".NET": "devicon:dot-net",
+        "Entity Framework": "",
+        "Angular": "devicon:angular",
+        "Boostrap": "devicon:bootstrap",
+        "Javascript": "devicon:javascript",
+        "TypeScript": "devicon:typescript",
+        "HTML": "devicon:html5",
+        "Swagger": "devicon:swagger",
+        "SignalR": "",
+        "VB6": "devicon:visualbasic",
+        "SQL Server": "devicon:microsoftsqlserver",
+        "SSRS": "",
+        "Windows Server": "devicon:windows11",
+        "Azure Dev-Ops": "devicon:azuredevops",
+        "Azure SQL": "devicon:azuresqldatabase",
+        "Visual Studio": "devicon:visualstudio",
+        "VS Code": "devicon:vscode",
+        "SSMS": "devicon:sqldeveloper",
+        "Trello": "devicon:trello",
+        "InfluxDB": "devicon:influxdb",
+        "Kafka": "devicon:apachekafka"
+      }
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": ["AI", "Blockchain"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "flag": "emojione-v1:flag-for-italy",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "flag": "emojione-v1:flag-for-united-kingdom",
+      "fluency": "Native level"
+    }
+  ],
+  "projects": [
+    {
+      "name": "MokaMetrics",
+      "isActive": true,
+      "description": "Currently in development: A project to simulate the 3 different geo-localized coffee machines industrial production facilities, with data acquisition and processing, using Kafka and InfluxDB.",
+      "highlights": [
+        "⚡ Built with .NET 9 and React",
+        "🖥️ InfluxDB to store machines IoT measurements",
+        "🚌 Kafka to handle messages between machine simulators and the backend"
+      ],
+      "image": {
+        "url": "",
+        "position": "container",
+        "dark": ""
+      },
+      "url": "https://github.com/orgs/MorningLoop/repositories",
+      "github": "https://github.com/orgs/MorningLoop/repositories"
+    },
+    {
+      "name": "Electron Resource Monitor",
+      "isActive": true,
+      "description": "A simple Electron application that monitors the system resources and displays them in a simple UI. A project to learn Electron and how it works.",
+      "highlights": [
+        "⚡ Built with Electron",
+        "🖥️ Built using React and Antd (fe is wip)"
+      ],
+      "image": {
+        "url": "",
+        "position": "container",
+        "dark": ""
+      },
+      "url": "https://github.com/Qybi/electron-resource-manager",
+      "github": "https://github.com/Qybi/electron-resource-manager"
+    },
+    {
+      "name": "Azure Microservices exam",
+      "image": {
+        "url": "",
+        "position": "container",
+        "dark": ""
+      },
+      "isActive": true,
+      "description": "A level'd up version of the prep exam for the Azure microservice ITS course. Details are in the README of the project.",
+      "highlights": [
+        "🖥️ Built with .NET 9",
+        "🔧 EF Core, AzureSQL, Azure functions, Worker service"
+      ],
+      "url": "https://github.com/Qybi/Azure-ITS-PreExam",
+      "github": "https://github.com/Qybi/Azure-ITS-PreExam"
+    }
+  ],
+  "skills": {
+    "power": {
+      "Communication": "mdi:forum",
+      "Teamwork": "mdi:account-group",
+      "Critical Thinking": "mdi:brain",
+      "Adaptability": "mdi:refresh",
+      "Composure": "material-symbols:self-improvement-rounded"
+    },
+    "global": {}
+  }
+}
